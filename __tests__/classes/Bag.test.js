@@ -1,0 +1,1 @@
+const Bag = require('../../classes/Bag');
